@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LudvikProchazka
+- 👀 I’m interested in geometric algebras and programming associated with it
+- 🌱 I’m currently learning c++ and QCGA
+- 💞️ I’m looking to collaborate on cool stuff (GA and programming)
+- 📫 How to reach me luda.4@seznam.cz or 420feedmasterelite (discord)
